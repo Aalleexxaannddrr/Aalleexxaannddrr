@@ -1,16 +1,29 @@
-### Hi there 👋
+### Technologies I know and use
+-------------------------------------
+- HTML + CSS + JS
+- React + React-Router + React-Hooks
+- SCSS
+- Node.js + Express.js
+- MongoDB
+- TypeScript
 
-<!--
-**Aalleexxaannddrr/Aalleexxaannddrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies I want to learn
+-------------------------------------
+- React Native
+- Docker
+- JAM-stack
+- SQLite
 
-Here are some ideas to get you started:
+### Personal softskills
+-----------------------------------------
+- Empathy
+- Active listening
+- Teamwork
+- Problem solving
+- Play ukulele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+-------------------------------------
+- Email: alexandr.operman@gmail.com
+- VK: https://vk.com/sanchos99
+- Telegram: @krutyshmalysh
