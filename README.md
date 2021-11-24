@@ -4,14 +4,17 @@
 - React + React-Router + React-Hooks
 - SCSS
 - Node.js + Express.js
+- Socket.io
 - MongoDB
+- Sequelize
+- PostgreSQL
 - TypeScript
 
 ### Technologies I want to learn
 -------------------------------------
 - React Native
 - Docker
-- JAM-stack
+- Nest.js
 - SQLite
 
 ### Personal softskills
