@@ -9,6 +9,7 @@
 - Sequelize
 - PostgreSQL
 - TypeScript
+- mobx
 
 ### Technologies I want to learn
 -------------------------------------
@@ -16,6 +17,7 @@
 - Docker
 - Nest.js
 - SQLite
+- Redux
 
 ### Personal softskills
 -----------------------------------------
