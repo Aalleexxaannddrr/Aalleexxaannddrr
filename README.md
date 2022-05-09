@@ -29,4 +29,4 @@
 -------------------------------------
 - Email: alexandr.operman@gmail.com
 - VK: https://vk.com/sanchos99
-- Telegram: @krutyshmalysh
+- Telegram: @evroimp
