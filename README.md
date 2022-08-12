@@ -13,11 +13,11 @@
 
 ### Technologies I want to learn
 -------------------------------------
-- React Native
 - Docker
 - Nest.js
-- SQLite
+- GrapgQL
 - Redux
+- TanStack Query
 
 ### Personal softskills
 -----------------------------------------
@@ -25,7 +25,7 @@
 - Active listening
 - Teamwork
 - Problem solving
-- Play ukulele
+- Play guitar
 
 ### Contacts
 -------------------------------------
