@@ -27,6 +27,13 @@
 - Problem solving
 - Play guitar
 
+### Hobbies
+-----------------------------------------
+- Board games
+- Guitar
+- Electonic music
+- Singing
+
 ### Contacts
 -------------------------------------
 - Email: alexandr.operman@gmail.com
