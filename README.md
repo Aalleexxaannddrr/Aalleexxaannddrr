@@ -10,6 +10,7 @@
 - PostgreSQL
 - TypeScript
 - mobx
+- css-in-js (emotion, JSS)
 
 ### Technologies I want to learn
 -------------------------------------
