@@ -10,14 +10,14 @@
 - PostgreSQL
 - TypeScript
 - mobx
+- Redux
 - css-in-js (emotion, JSS)
+- Docker
 
 ### Technologies I want to learn
 -------------------------------------
-- Docker
 - Nest.js
 - GrapgQL
-- Redux
 - TanStack Query
 
 ### Personal softskills
